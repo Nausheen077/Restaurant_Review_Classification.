@@ -37,12 +37,16 @@ This project is a Restaurant Review Classification system that predicts whether 
    Streamlit run app.py
    ```
 
-3. Open the application in your browser: http://localhost:8501
+3. Open the application in your browser
 
 
 4. ## Live Demo
 
 https://your-render-url.onrender.com
+
+5. ## Github Repository
+
+   https://github.com/Nausheen077/Restaurant_Review_Classification..git
 
 ## Author
 Nausheen Begum
