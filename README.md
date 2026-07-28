@@ -32,12 +32,17 @@ This project is a Restaurant Review Classification system that predicts whether 
    pip install -r requirements.txt
    ```
 
-2. Start the Flask application:
+2. Start the Streamlit application:
    ```
-   python app.py
+   Streamlit run app.py
    ```
 
-3. Open the application in your browser.
+3. Open the application in your browser: http://localhost:8501
+
+
+4. ## Live Demo
+
+https://your-render-url.onrender.com
 
 ## Author
 Nausheen Begum
