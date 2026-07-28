@@ -42,7 +42,7 @@ This project is a Restaurant Review Classification system that predicts whether 
 
 4. ## Live Demo
 
-https://your-render-url.onrender.com
+https://restaurant-review-classification.onrender.com/
 
 5. ## Github Repository
 
